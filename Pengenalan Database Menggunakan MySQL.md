@@ -1,7 +1,7 @@
 ## Pendahuluan
 
 1. DBMS adalah singkatan dari
-- Data Manipulation System
+- A. Data Manipulation System
 B. Database Manipulation System
 C. Data Management System
 D. *Database Management System*
