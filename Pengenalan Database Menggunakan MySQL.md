@@ -1,10 +1,10 @@
 ## Pendahuluan
 
 1. DBMS adalah singkatan dari
- A. Data Manipulation System
- B. Database Manipulation System
- C. Data Management System
- D. *Database Management System*
+ 1. Data Manipulation System
+ 2. Database Manipulation System
+ 3. Data Management System
+ 4. *Database Management System*
 
 2. Dibawah ini adalah salah satu tujuan atau manfaat penggunaan DBMS, Kecuali
 A. Akses data lebih mudah dan cepat
