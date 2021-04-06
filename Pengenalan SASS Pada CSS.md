@@ -264,7 +264,7 @@ e. Mengendalinkan beberapa komponen dalam sebuah web sehngga akan lebih terstruk
 ```
 a. <hr>
 b. <br>
-c. <p>
+c. <p>//jawaban
 d. <b>
 e. <tr>
 ```
@@ -280,9 +280,24 @@ e. **Extend**
 ```
 a. <style src="mystyle.css">
 b. <stylesheet>mystyle.css</stylesheet>
-c. **<link rel="stylesheet" type="text/css" href="mystyle.css">**
+c. <link rel="stylesheet" type="text/css" href="mystyle.css">//jawaban
 d. <style "mystyle.css">
 e. <style>mystyle.css</style>
 ```
+29. Dalam Extend menggunakan kode ...
+a. #extend
+b. $extend
+c. &extend
+d. **@extend**
+e. *extend
 
-1.  
+30. Tag HTML mana yang digunakan untuk menentukan internal style sheet ?
+```
+a. <style> //jawaban
+b. <css>
+c. <script>
+d. <img>
+e. <section>
+```
+
+31. 
