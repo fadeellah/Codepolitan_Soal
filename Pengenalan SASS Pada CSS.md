@@ -106,9 +106,9 @@ d. Module
 e. **Mixin**
 
     
-11. Terdapat sebuah code
+11. Terdapat kode SASS
 ```
-.ibu {
+  .ibu {
     color: blue;
     .anak {
         font-size: 12px;
@@ -215,3 +215,70 @@ b. $color:#E74C3C;
 c. $font:#E74C3C;
 d. **$font:Helvetica, sans serif;**
 e. $border-default: 4px solid black;
+
+21. Tag untuk menampilkan gambar dalam HTML adalah...
+a. **<img>**
+b. <jpg>
+c. <jpeg>
+d. <pict>
+e. <gambar>
+
+22. Menu yang berisi link-link yang bersifat umum pada suatu website, misalkan home, about, contant us, dan lain sebagainya disebut...
+a. Body
+b. Header
+c. **Navbar**
+d. Container
+e. Footer
+
+23. Kode dibawah ini berfungsi untuk ?
+```
+<code>display: block;</code>
+```
+a. Action yang kita buat pada selector hover akan berjalan saat cursor kita diarahkan pada object tersebut
+b. Membuat object sejajar dengan object lainnya
+c. **Digunakan untuk membuat display link menjadi sebuah bentuk.**
+d. Element pada HTML yang dibuat untuk mempresentasikan link navigasi
+e. Mengendalinkan beberapa komponen dalam sebuah web sehngga akan lebih terstruktur dan seragam yang bertujuan untuk mengatur gaya (style) tampilan webiste
+
+24. Kode dibawah ini berfungsi untuk ?
+```
+<code>:hover</code>
+```
+a. **Action yang kita buat pada selector hover akan berjalan saat cursor kita diarahkan pada object tersebut**
+b. Membuat object sejajar dengan object lainnya
+c. Digunakan untuk membuat display link menjadi sebuah bentuk.
+d. Element pada HTML yang dibuat untuk mempresentasikan link navigasi
+e. Mengendalinkan beberapa komponen dalam sebuah web sehngga akan lebih terstruktur dan seragam yang bertujuan untuk mengatur gaya (style) tampilan webiste
+
+25. Kode dibawah ini berfungsi untuk ?
+```
+<code>display: inline-table;</code> 
+```
+a. Action yang kita buat pada selector hover akan berjalan saat cursor kita diarahkan pada object tersebut
+b. **Membuat object sejajar dengan object lainnya**
+c. Digunakan untuk membuat display link menjadi sebuah bentuk.
+d. Element pada HTML yang dibuat untuk mempresentasikan link navigasi
+e. Mengendalinkan beberapa komponen dalam sebuah web sehngga akan lebih terstruktur dan seragam yang bertujuan untuk mengatur gaya (style) tampilan webiste
+
+26. Untuk menentukan baris dalam tulisan paragraf adalah...
+a. <hr>
+b. <br>
+c. **<p>**
+d. <b>
+e. <tr>
+
+27. Fitur yang digunakan untuk mewariskan properti salah satu selector kepada selector lain disebut ...
+a. Variabel
+b. Nesting
+c. Partials
+d. Module
+e. **Extend**
+
+28. Dibawah ini code HTML untuk memanggil CSS adalah ...
+a. <style src="mystyle.css">
+b. <stylesheet>mystyle.css</stylesheet>
+c. **<link rel="stylesheet" type="text/css" href="mystyle.css">**
+d. <style "mystyle.css">
+e. <style>mystyle.css</style>
+
+29. 
