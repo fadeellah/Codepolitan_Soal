@@ -268,14 +268,14 @@ Dibawah ini merupakan hasil compilasi dari SASS ke CSS
 - E. < tr >
 
 
-1.   Fitur yang digunakan untuk mewariskan properti salah satu selector kepada selector lain disebut ...
+27.   Fitur yang digunakan untuk mewariskan properti salah satu selector kepada selector lain disebut ...
 - A. Variabel
 - B. Nesting
 - C. Partials
 - D. Module
 - E. **Extend**
 
-1.  Dibawah ini code HTML untuk memanggil CSS adalah ...
+28.  Dibawah ini code HTML untuk memanggil CSS adalah ...
 ```
 A. <style src="mystyle.css">
 B. <stylesheet>mystyle.css</stylesheet>
