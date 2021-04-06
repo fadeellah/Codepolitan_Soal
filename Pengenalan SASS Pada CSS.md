@@ -106,12 +106,15 @@ d. Module
 e. **Mixin**
 
     
-11. ```.ibu {
+11. Terdapat sebuah code
+```
+.ibu {
     color: blue;
     .anak {
         font-size: 12px;
     }
-}```
+}
+```
 
 Dibawah ini merupakan hasil compilasi dari SASS ke CSS
 a. .ibu {
