@@ -261,13 +261,15 @@ d. Element pada HTML yang dibuat untuk mempresentasikan link navigasi
 e. Mengendalinkan beberapa komponen dalam sebuah web sehngga akan lebih terstruktur dan seragam yang bertujuan untuk mengatur gaya (style) tampilan webiste
 
 26. Untuk menentukan baris dalam tulisan paragraf adalah...
+```
 a. <hr>
 b. <br>
-c. **<p>**
+c. <p>
 d. <b>
 e. <tr>
+```
 
-27. Fitur yang digunakan untuk mewariskan properti salah satu selector kepada selector lain disebut ...
+27.  Fitur yang digunakan untuk mewariskan properti salah satu selector kepada selector lain disebut ...
 a. Variabel
 b. Nesting
 c. Partials
@@ -275,10 +277,12 @@ d. Module
 e. **Extend**
 
 28. Dibawah ini code HTML untuk memanggil CSS adalah ...
+```
 a. <style src="mystyle.css">
 b. <stylesheet>mystyle.css</stylesheet>
 c. **<link rel="stylesheet" type="text/css" href="mystyle.css">**
 d. <style "mystyle.css">
 e. <style>mystyle.css</style>
+```
 
-29. 
+1.  
