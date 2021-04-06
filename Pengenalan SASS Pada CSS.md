@@ -118,40 +118,40 @@
 
 Dibawah ini merupakan hasil compilasi dari SASS ke CSS
 - A. .ibu {
-  color blue;
-}
+        color blue;
+            }
 
-.ibu .anak {
-    font-size 12px;
-}
+     .ibu .anak {
+        font-size 12px;
+            }
 - B. .anak {
-  color: blue;
-}
+        color: blue;
+            }
 
-.ibu {
-    font-size: 12px;
-}
+     .ibu {
+        font-size: 12px;
+            }
 - C. .ibu {
-  color: blue;
-}
+        color: blue;
+            }
 
-.anak {
-    font-size: 12px;
-}
+     .anak {
+        font-size: 12px;
+            }
 - D. .ibu {
-  color: blue
-}
+        color: blue
+            }
 
-.ibu .anak {
-    font-size: 12px
-}
+     .ibu .anak {
+        font-size: 12px
+            }
 - E. **.ibu {**
-  **color: blue;**
-**}**
+        **color: blue;**
+            **}**
 
-**.ibu .anak {**
-    **font-size: 12px;**
-**}**
+     **.ibu .anak {**
+        **font-size: 12px;**
+           **}**
 
 12. Fitur untuk menyimpan sebuah nilai. Nilai yang tersimpan dapat berupa nilai properti, angka, teks, ukuran elemen, url gambar, ds- B. Fitur yang dimaksud adalah ... 
 - A. **Variabel**
@@ -297,7 +297,7 @@ E. <style>mystyle.css</style>
 - D. < img >
 - E. < section >
 
-1.  Untuk memangil mixin, kita harus menggunakan perintah...
+31.  Untuk memangil mixin, kita harus menggunakan perintah...
 - A. @body
 - B. @end
 - C. @start
@@ -343,8 +343,8 @@ Pada kode tersebut, kita membuat mixins dengan nama ?
 - E. atribut
 
 36. Bagaimana Anda memasukkan komentar di file CSS?
-- A. **/* this is a comment */**  
-- B. // this is a comment
+- A. **/* this is a comment */**
+- B. this is a comment
 - C. // this is a comment //
 - D. ' this is a comment
 - E. "this is a comment"
